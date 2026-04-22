@@ -1,0 +1,3 @@
+Almost same as Decoder-Only Transformer, except that for calculating contextual embedding of each token it also considers next tokens (i.e. no masking). Encoder-Only transformers are designed primarily for understanding and processing input sequences, making them ideal for tasks such as text classification, sentiment analysis, and named entity recognition.
+
+Example - BERT - Bi-Directional Representation Transformers.
